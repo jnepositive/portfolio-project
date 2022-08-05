@@ -1,0 +1,55 @@
+
+
+header {
+    position: fixed;
+    background-color: white;
+    top: 0;
+    width: 100%;
+}
+
+body {
+    margin-top: 80px;
+    font-family: 'Fjalla One', sans-serif;
+    max-width: 1920px;
+}
+
+h1 {
+
+    display: inline-block;
+}
+
+h2 {
+
+    display: inline-block;
+}
+
+div.img {
+    
+    border: 2px solid black;
+    padding: 200px;
+    margin-bottom: 10px;
+}
+
+div.thumb {
+    
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: inline-block
+}
+
+#aboutme {
+    display: none;
+}
+
+#catalog {
+    display: none;
+}
+
+#flyers {
+    display: none;
+}
+
+#contact {
+    display: none;
+}
